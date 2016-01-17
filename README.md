@@ -11,6 +11,10 @@ New line by Chary
 
 sample introduction
 
+## Deployment
+
+Use Jenkins build ...
+
 ## How To Contribute
 
 just do it :-)
