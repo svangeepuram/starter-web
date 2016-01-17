@@ -21,3 +21,7 @@ Use Jenkins build ...
 just do it :-)
 create a pull request for review...
 
+
+# Copyright
+2014-2016 Git self-learning
+
