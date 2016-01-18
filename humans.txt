@@ -5,6 +5,7 @@
 
     <name> -- <role> -- <twitter>
 	Chary PM @charyonpm
+	John doe john@gmail.com @johndoe
 
 # THANKS
 
