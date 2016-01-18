@@ -9,6 +9,7 @@
 
 # THANKS
 
+Thanks to all contributors...
     <name>
 
 # TECHNOLOGY COLOPHON
